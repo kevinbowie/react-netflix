@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Example
+# Hosting
 https://fir-demo-67528.web.app/
 
 ## Available Scripts
