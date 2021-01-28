@@ -16,10 +16,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 ### Images
-<p align="center">
-  <img src="https://drive.google.com/file/d/1dFwQjZO5aAZh4nMVL8DIqsaWSPF624hn/view?usp=sharing" width="350" title="hover text">
-  <img src="https://drive.google.com/file/d/1dFwQjZO5aAZh4nMVL8DIqsaWSPF624hn/view?usp=sharing" width="350" alt="accessibility text">
-</p>
+![alt text](https://drive.google.com/file/d/1dFwQjZO5aAZh4nMVL8DIqsaWSPF624hn/view?usp=sharing)
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
